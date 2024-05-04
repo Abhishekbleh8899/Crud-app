@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "ROHIT SHARMA",
+      "username": "rohitsharma",
+      "email": "rohit@gmail.com",
+      "phone": "1231231231",
+      "id": 1
+    },
+    {
+      "id": "3ce8",
+      "name": "Abhishek Yadav",
+      "username": "abhishekbleh",
+      "email": "abhishekbleh24@gmail.conm",
+      "phone": "9870409185"
+    }
+  ]
+}
